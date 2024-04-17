@@ -1,0 +1,1804 @@
+[
+    {
+        "label": "boto3",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "boto3",
+        "description": "boto3",
+        "detail": "boto3",
+        "documentation": {}
+    },
+    {
+        "label": "S3Client",
+        "importPath": "us_visa.configuration.aws_connection",
+        "description": "us_visa.configuration.aws_connection",
+        "isExtraImport": true,
+        "detail": "us_visa.configuration.aws_connection",
+        "documentation": {}
+    },
+    {
+        "label": "StringIO",
+        "importPath": "io",
+        "description": "io",
+        "isExtraImport": true,
+        "detail": "io",
+        "documentation": {}
+    },
+    {
+        "label": "Union",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "List",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Tuple",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "Optional",
+        "importPath": "typing",
+        "description": "typing",
+        "isExtraImport": true,
+        "detail": "typing",
+        "documentation": {}
+    },
+    {
+        "label": "os,sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os.sys",
+        "description": "os.sys",
+        "detail": "os.sys",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "logging",
+        "importPath": "us_visa.logger",
+        "description": "us_visa.logger",
+        "isExtraImport": true,
+        "detail": "us_visa.logger",
+        "documentation": {}
+    },
+    {
+        "label": "Bucket",
+        "importPath": "mypy_boto3_s3.service_resource",
+        "description": "mypy_boto3_s3.service_resource",
+        "isExtraImport": true,
+        "detail": "mypy_boto3_s3.service_resource",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaException",
+        "importPath": "us_visa.exception",
+        "description": "us_visa.exception",
+        "isExtraImport": true,
+        "detail": "us_visa.exception",
+        "documentation": {}
+    },
+    {
+        "label": "ClientError",
+        "importPath": "botocore.exceptions",
+        "description": "botocore.exceptions",
+        "isExtraImport": true,
+        "detail": "botocore.exceptions",
+        "documentation": {}
+    },
+    {
+        "label": "pandas",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pandas",
+        "description": "pandas",
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "read_csv",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "DataFrame",
+        "importPath": "pandas",
+        "description": "pandas",
+        "isExtraImport": true,
+        "detail": "pandas",
+        "documentation": {}
+    },
+    {
+        "label": "pickle",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pickle",
+        "description": "pickle",
+        "detail": "pickle",
+        "documentation": {}
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {}
+    },
+    {
+        "label": "sys",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sys",
+        "description": "sys",
+        "detail": "sys",
+        "documentation": {}
+    },
+    {
+        "label": "train_test_split",
+        "importPath": "sklearn.model_selection",
+        "description": "sklearn.model_selection",
+        "isExtraImport": true,
+        "detail": "sklearn.model_selection",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaPredictorConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherConfig",
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ClassificationMetricArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherArtifact",
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaData",
+        "importPath": "us_visa.data_access.usvisa_data",
+        "description": "us_visa.data_access.usvisa_data",
+        "isExtraImport": true,
+        "detail": "us_visa.data_access.usvisa_data",
+        "documentation": {}
+    },
+    {
+        "label": "numpy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "numpy",
+        "description": "numpy",
+        "detail": "numpy",
+        "documentation": {}
+    },
+    {
+        "label": "SMOTEENN",
+        "importPath": "imblearn.combine",
+        "description": "imblearn.combine",
+        "isExtraImport": true,
+        "detail": "imblearn.combine",
+        "documentation": {}
+    },
+    {
+        "label": "Pipeline",
+        "importPath": "sklearn.pipeline",
+        "description": "sklearn.pipeline",
+        "isExtraImport": true,
+        "detail": "sklearn.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "Pipeline",
+        "importPath": "sklearn.pipeline",
+        "description": "sklearn.pipeline",
+        "isExtraImport": true,
+        "detail": "sklearn.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "Pipeline",
+        "importPath": "sklearn.pipeline",
+        "description": "sklearn.pipeline",
+        "isExtraImport": true,
+        "detail": "sklearn.pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "StandardScaler",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "OneHotEncoder",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "OrdinalEncoder",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "PowerTransformer",
+        "importPath": "sklearn.preprocessing",
+        "description": "sklearn.preprocessing",
+        "isExtraImport": true,
+        "detail": "sklearn.preprocessing",
+        "documentation": {}
+    },
+    {
+        "label": "ColumnTransformer",
+        "importPath": "sklearn.compose",
+        "description": "sklearn.compose",
+        "isExtraImport": true,
+        "detail": "sklearn.compose",
+        "documentation": {}
+    },
+    {
+        "label": "TARGET_COLUMN",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SCHEMA_FILE_PATH",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CURRENT_YEAR",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "SCHEMA_FILE_PATH",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "TARGET_COLUMN",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "CURRENT_YEAR",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "AWS_SECRET_ACCESS_KEY_ENV_KEY",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "AWS_ACCESS_KEY_ID_ENV_KEY",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "REGION_NAME",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "MONGODB_URL_KEY",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "DATABASE_NAME",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "*",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "APP_HOST",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "APP_PORT",
+        "importPath": "us_visa.constants",
+        "description": "us_visa.constants",
+        "isExtraImport": true,
+        "detail": "us_visa.constants",
+        "documentation": {}
+    },
+    {
+        "label": "save_object",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_numpy_array_data",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml_file",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "drop_columns",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml_file",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_yaml_file",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_numpy_array_data",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml_file",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_object",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_object",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml_file",
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "isExtraImport": true,
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "TargetValueMapping",
+        "importPath": "us_visa.entity.estimator",
+        "description": "us_visa.entity.estimator",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.estimator",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaModel",
+        "importPath": "us_visa.entity.estimator",
+        "description": "us_visa.entity.estimator",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.estimator",
+        "documentation": {}
+    },
+    {
+        "label": "TargetValueMapping",
+        "importPath": "us_visa.entity.estimator",
+        "description": "us_visa.entity.estimator",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.estimator",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaModel",
+        "importPath": "us_visa.entity.estimator",
+        "description": "us_visa.entity.estimator",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.estimator",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaModel",
+        "importPath": "us_visa.entity.estimator",
+        "description": "us_visa.entity.estimator",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.estimator",
+        "documentation": {}
+    },
+    {
+        "label": "json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "json",
+        "description": "json",
+        "detail": "json",
+        "documentation": {}
+    },
+    {
+        "label": "Profile",
+        "importPath": "evidently.model_profile",
+        "description": "evidently.model_profile",
+        "isExtraImport": true,
+        "detail": "evidently.model_profile",
+        "documentation": {}
+    },
+    {
+        "label": "DataDriftProfileSection",
+        "importPath": "evidently.model_profile.sections",
+        "description": "evidently.model_profile.sections",
+        "isExtraImport": true,
+        "detail": "evidently.model_profile.sections",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "accuracy_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "f1_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "precision_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "recall_score",
+        "importPath": "sklearn.metrics",
+        "description": "sklearn.metrics",
+        "isExtraImport": true,
+        "detail": "sklearn.metrics",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaEstimator",
+        "importPath": "us_visa.entity.s3_estimator",
+        "description": "us_visa.entity.s3_estimator",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.s3_estimator",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaEstimator",
+        "importPath": "us_visa.entity.s3_estimator",
+        "description": "us_visa.entity.s3_estimator",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.s3_estimator",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaEstimator",
+        "importPath": "us_visa.entity.s3_estimator",
+        "description": "us_visa.entity.s3_estimator",
+        "isExtraImport": true,
+        "detail": "us_visa.entity.s3_estimator",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "dataclass",
+        "importPath": "dataclasses",
+        "description": "dataclasses",
+        "isExtraImport": true,
+        "detail": "dataclasses",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleStorageService",
+        "importPath": "us_visa.cloud_storage.aws_storage",
+        "description": "us_visa.cloud_storage.aws_storage",
+        "isExtraImport": true,
+        "detail": "us_visa.cloud_storage.aws_storage",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleStorageService",
+        "importPath": "us_visa.cloud_storage.aws_storage",
+        "description": "us_visa.cloud_storage.aws_storage",
+        "isExtraImport": true,
+        "detail": "us_visa.cloud_storage.aws_storage",
+        "documentation": {}
+    },
+    {
+        "label": "ModelFactory",
+        "importPath": "neuro_mf ",
+        "description": "neuro_mf ",
+        "isExtraImport": true,
+        "detail": "neuro_mf ",
+        "documentation": {}
+    },
+    {
+        "label": "pymongo",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "pymongo",
+        "description": "pymongo",
+        "detail": "pymongo",
+        "documentation": {}
+    },
+    {
+        "label": "certifi",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "certifi",
+        "description": "certifi",
+        "detail": "certifi",
+        "documentation": {}
+    },
+    {
+        "label": "MongoDBClient",
+        "importPath": "us_visa.configuration.mongo_db_connection",
+        "description": "us_visa.configuration.mongo_db_connection",
+        "isExtraImport": true,
+        "detail": "us_visa.configuration.mongo_db_connection",
+        "documentation": {}
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestion",
+        "importPath": "us_visa.components.data_ingestion",
+        "description": "us_visa.components.data_ingestion",
+        "isExtraImport": true,
+        "detail": "us_visa.components.data_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidation",
+        "importPath": "us_visa.components.data_validation",
+        "description": "us_visa.components.data_validation",
+        "isExtraImport": true,
+        "detail": "us_visa.components.data_validation",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformation",
+        "importPath": "us_visa.components.data_transformation",
+        "description": "us_visa.components.data_transformation",
+        "isExtraImport": true,
+        "detail": "us_visa.components.data_transformation",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainer",
+        "importPath": "us_visa.components.model_trainer",
+        "description": "us_visa.components.model_trainer",
+        "isExtraImport": true,
+        "detail": "us_visa.components.model_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluation",
+        "importPath": "us_visa.components.model_evaluation",
+        "description": "us_visa.components.model_evaluation",
+        "isExtraImport": true,
+        "detail": "us_visa.components.model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusher",
+        "importPath": "us_visa.components.model_pusher",
+        "description": "us_visa.components.model_pusher",
+        "isExtraImport": true,
+        "detail": "us_visa.components.model_pusher",
+        "documentation": {}
+    },
+    {
+        "label": "dill",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "dill",
+        "description": "dill",
+        "detail": "dill",
+        "documentation": {}
+    },
+    {
+        "label": "yaml",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "yaml",
+        "description": "yaml",
+        "detail": "yaml",
+        "documentation": {}
+    },
+    {
+        "label": "FastAPI",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "Request",
+        "importPath": "fastapi",
+        "description": "fastapi",
+        "isExtraImport": true,
+        "detail": "fastapi",
+        "documentation": {}
+    },
+    {
+        "label": "CORSMiddleware",
+        "importPath": "fastapi.middleware.cors",
+        "description": "fastapi.middleware.cors",
+        "isExtraImport": true,
+        "detail": "fastapi.middleware.cors",
+        "documentation": {}
+    },
+    {
+        "label": "Response",
+        "importPath": "fastapi.responses",
+        "description": "fastapi.responses",
+        "isExtraImport": true,
+        "detail": "fastapi.responses",
+        "documentation": {}
+    },
+    {
+        "label": "StaticFiles",
+        "importPath": "fastapi.staticfiles",
+        "description": "fastapi.staticfiles",
+        "isExtraImport": true,
+        "detail": "fastapi.staticfiles",
+        "documentation": {}
+    },
+    {
+        "label": "Jinja2Templates",
+        "importPath": "fastapi.templating",
+        "description": "fastapi.templating",
+        "isExtraImport": true,
+        "detail": "fastapi.templating",
+        "documentation": {}
+    },
+    {
+        "label": "HTMLResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "RedirectResponse",
+        "importPath": "starlette.responses",
+        "description": "starlette.responses",
+        "isExtraImport": true,
+        "detail": "starlette.responses",
+        "documentation": {}
+    },
+    {
+        "label": "run",
+        "importPath": "uvicorn",
+        "description": "uvicorn",
+        "isExtraImport": true,
+        "detail": "uvicorn",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaData",
+        "importPath": "us_visa.pipline.prediction_pipeline",
+        "description": "us_visa.pipline.prediction_pipeline",
+        "isExtraImport": true,
+        "detail": "us_visa.pipline.prediction_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaClassifier",
+        "importPath": "us_visa.pipline.prediction_pipeline",
+        "description": "us_visa.pipline.prediction_pipeline",
+        "isExtraImport": true,
+        "detail": "us_visa.pipline.prediction_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "TrainPipeline",
+        "importPath": "us_visa.pipline.training_pipeline",
+        "description": "us_visa.pipline.training_pipeline",
+        "isExtraImport": true,
+        "detail": "us_visa.pipline.training_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "TrainPipeline",
+        "importPath": "us_visa.pipline.training_pipeline",
+        "description": "us_visa.pipline.training_pipeline",
+        "isExtraImport": true,
+        "detail": "us_visa.pipline.training_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "setup",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "find_packages",
+        "importPath": "setuptools",
+        "description": "setuptools",
+        "isExtraImport": true,
+        "detail": "setuptools",
+        "documentation": {}
+    },
+    {
+        "label": "Path",
+        "importPath": "pathlib",
+        "description": "pathlib",
+        "isExtraImport": true,
+        "detail": "pathlib",
+        "documentation": {}
+    },
+    {
+        "label": "SimpleStorageService",
+        "kind": 6,
+        "importPath": "us_visa.cloud_storage.aws_storage",
+        "description": "us_visa.cloud_storage.aws_storage",
+        "peekOfCode": "class SimpleStorageService:\n    def __init__(self):\n        s3_client = S3Client()\n        self.s3_resource = s3_client.s3_resource\n        self.s3_client = s3_client.s3_client\n    def s3_key_path_available(self,bucket_name,s3_key)->bool:\n        try:\n            bucket = self.get_bucket(bucket_name)\n            file_objects = [file_object for file_object in bucket.objects.filter(Prefix=s3_key)]\n            if len(file_objects) > 0:",
+        "detail": "us_visa.cloud_storage.aws_storage",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestion",
+        "kind": 6,
+        "importPath": "us_visa.components.data_ingestion",
+        "description": "us_visa.components.data_ingestion",
+        "peekOfCode": "class DataIngestion:\n    def __init__(self,data_ingestion_config:DataIngestionConfig=DataIngestionConfig()):\n        \"\"\"\n        :param data_ingestion_config: configuration for data ingestion\n        \"\"\"\n        try:\n            self.data_ingestion_config = data_ingestion_config\n        except Exception as e:\n            raise USvisaException(e,sys)\n    def export_data_into_feature_store(self)->DataFrame:",
+        "detail": "us_visa.components.data_ingestion",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformation",
+        "kind": 6,
+        "importPath": "us_visa.components.data_transformation",
+        "description": "us_visa.components.data_transformation",
+        "peekOfCode": "class DataTransformation:\n    def __init__(self, data_ingestion_artifact: DataIngestionArtifact,\n                 data_transformation_config: DataTransformationConfig,\n                 data_validation_artifact: DataValidationArtifact):\n        \"\"\"\n        :param data_ingestion_artifact: Output reference of data ingestion artifact stage\n        :param data_transformation_config: configuration for data transformation\n        \"\"\"\n        try:\n            self.data_ingestion_artifact = data_ingestion_artifact",
+        "detail": "us_visa.components.data_transformation",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidation",
+        "kind": 6,
+        "importPath": "us_visa.components.data_validation",
+        "description": "us_visa.components.data_validation",
+        "peekOfCode": "class DataValidation:\n    def __init__(self, data_ingestion_artifact: DataIngestionArtifact, data_validation_config: DataValidationConfig):\n        \"\"\"\n        :param data_ingestion_artifact: Output reference of data ingestion artifact stage\n        :param data_validation_config: configuration for data validation\n        \"\"\"\n        try:\n            self.data_ingestion_artifact = data_ingestion_artifact\n            self.data_validation_config = data_validation_config\n            self._schema_config =read_yaml_file(file_path=SCHEMA_FILE_PATH)",
+        "detail": "us_visa.components.data_validation",
+        "documentation": {}
+    },
+    {
+        "label": "EvaluateModelResponse",
+        "kind": 6,
+        "importPath": "us_visa.components.model_evaluation",
+        "description": "us_visa.components.model_evaluation",
+        "peekOfCode": "class EvaluateModelResponse:\n    trained_model_f1_score: float\n    best_model_f1_score: float\n    is_model_accepted: bool\n    difference: float\nclass ModelEvaluation:\n    def __init__(self, model_eval_config: ModelEvaluationConfig, data_ingestion_artifact: DataIngestionArtifact,\n                 model_trainer_artifact: ModelTrainerArtifact):\n        try:\n            self.model_eval_config = model_eval_config",
+        "detail": "us_visa.components.model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluation",
+        "kind": 6,
+        "importPath": "us_visa.components.model_evaluation",
+        "description": "us_visa.components.model_evaluation",
+        "peekOfCode": "class ModelEvaluation:\n    def __init__(self, model_eval_config: ModelEvaluationConfig, data_ingestion_artifact: DataIngestionArtifact,\n                 model_trainer_artifact: ModelTrainerArtifact):\n        try:\n            self.model_eval_config = model_eval_config\n            self.data_ingestion_artifact = data_ingestion_artifact\n            self.model_trainer_artifact = model_trainer_artifact\n        except Exception as e:\n            raise USvisaException(e, sys) from e\n    def get_best_model(self) -> Optional[USvisaEstimator]:",
+        "detail": "us_visa.components.model_evaluation",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusher",
+        "kind": 6,
+        "importPath": "us_visa.components.model_pusher",
+        "description": "us_visa.components.model_pusher",
+        "peekOfCode": "class ModelPusher:\n    def __init__(self, model_evaluation_artifact: ModelEvaluationArtifact,\n                 model_pusher_config: ModelPusherConfig):\n        \"\"\"\n        :param model_evaluation_artifact: Output reference of data evaluation artifact stage\n        :param model_pusher_config: Configuration for model pusher\n        \"\"\"\n        self.s3 = SimpleStorageService()\n        self.model_evaluation_artifact = model_evaluation_artifact\n        self.model_pusher_config = model_pusher_config",
+        "detail": "us_visa.components.model_pusher",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainer",
+        "kind": 6,
+        "importPath": "us_visa.components.model_trainer",
+        "description": "us_visa.components.model_trainer",
+        "peekOfCode": "class ModelTrainer:\n    def __init__(self, data_transformation_artifact: DataTransformationArtifact,\n                 model_trainer_config: ModelTrainerConfig):\n        \"\"\"\n        :param data_ingestion_artifact: Output reference of data ingestion artifact stage\n        :param data_transformation_config: Configuration for data transformation\n        \"\"\"\n        self.data_transformation_artifact = data_transformation_artifact\n        self.model_trainer_config = model_trainer_config\n    def get_model_object_and_report(self, train: np.array, test: np.array) -> Tuple[object, object]:",
+        "detail": "us_visa.components.model_trainer",
+        "documentation": {}
+    },
+    {
+        "label": "S3Client",
+        "kind": 6,
+        "importPath": "us_visa.configuration.aws_connection",
+        "description": "us_visa.configuration.aws_connection",
+        "peekOfCode": "class S3Client:\n    s3_client=None\n    s3_resource = None\n    def __init__(self, region_name=REGION_NAME):\n        \"\"\" \n        This Class gets aws credentials from env_variable and creates an connection with s3 bucket \n        and raise exception when environment variable is not set\n        \"\"\"\n        if S3Client.s3_resource==None or S3Client.s3_client==None:\n            __access_key_id = os.getenv(AWS_ACCESS_KEY_ID_ENV_KEY, )",
+        "detail": "us_visa.configuration.aws_connection",
+        "documentation": {}
+    },
+    {
+        "label": "MongoDBClient",
+        "kind": 6,
+        "importPath": "us_visa.configuration.mongo_db_connection",
+        "description": "us_visa.configuration.mongo_db_connection",
+        "peekOfCode": "class MongoDBClient:\n    \"\"\"\n    Class Name :   export_data_into_feature_store\n    Description :   This method exports the dataframe from mongodb feature store as dataframe \n    Output      :   connection to mongodb database\n    On Failure  :   raises an exception\n    \"\"\"\n    client = None\n    def __init__(self, database_name=DATABASE_NAME) -> None:\n        try:",
+        "detail": "us_visa.configuration.mongo_db_connection",
+        "documentation": {}
+    },
+    {
+        "label": "ca",
+        "kind": 5,
+        "importPath": "us_visa.configuration.mongo_db_connection",
+        "description": "us_visa.configuration.mongo_db_connection",
+        "peekOfCode": "ca = certifi.where()\nclass MongoDBClient:\n    \"\"\"\n    Class Name :   export_data_into_feature_store\n    Description :   This method exports the dataframe from mongodb feature store as dataframe \n    Output      :   connection to mongodb database\n    On Failure  :   raises an exception\n    \"\"\"\n    client = None\n    def __init__(self, database_name=DATABASE_NAME) -> None:",
+        "detail": "us_visa.configuration.mongo_db_connection",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaData",
+        "kind": 6,
+        "importPath": "us_visa.data_access.usvisa_data",
+        "description": "us_visa.data_access.usvisa_data",
+        "peekOfCode": "class USvisaData:\n    \"\"\"\n    This class help to export entire mongo db record as pandas dataframe\n    \"\"\"\n    def __init__(self):\n        \"\"\"\n        \"\"\"\n        try:\n            self.mongo_client = MongoDBClient(database_name=DATABASE_NAME)\n        except Exception as e:",
+        "detail": "us_visa.data_access.usvisa_data",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionArtifact",
+        "kind": 6,
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "peekOfCode": "class DataIngestionArtifact:\n    trained_file_path:str \n    test_file_path:str \n@dataclass\nclass DataValidationArtifact:\n    validation_status:bool\n    message: str\n    drift_report_file_path: str\n@dataclass\nclass DataTransformationArtifact:",
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationArtifact",
+        "kind": 6,
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "peekOfCode": "class DataValidationArtifact:\n    validation_status:bool\n    message: str\n    drift_report_file_path: str\n@dataclass\nclass DataTransformationArtifact:\n    transformed_object_file_path:str \n    transformed_train_file_path:str\n    transformed_test_file_path:str\n@dataclass",
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationArtifact",
+        "kind": 6,
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "peekOfCode": "class DataTransformationArtifact:\n    transformed_object_file_path:str \n    transformed_train_file_path:str\n    transformed_test_file_path:str\n@dataclass\nclass ClassificationMetricArtifact:\n    f1_score:float\n    precision_score:float\n    recall_score:float\n@dataclass",
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ClassificationMetricArtifact",
+        "kind": 6,
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "peekOfCode": "class ClassificationMetricArtifact:\n    f1_score:float\n    precision_score:float\n    recall_score:float\n@dataclass\nclass ModelTrainerArtifact:\n    trained_model_file_path:str \n    metric_artifact:ClassificationMetricArtifact\n@dataclass\nclass ModelEvaluationArtifact:",
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerArtifact",
+        "kind": 6,
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "peekOfCode": "class ModelTrainerArtifact:\n    trained_model_file_path:str \n    metric_artifact:ClassificationMetricArtifact\n@dataclass\nclass ModelEvaluationArtifact:\n    is_model_accepted:bool\n    changed_accuracy:float\n    s3_model_path:str \n    trained_model_path:str\n@dataclass",
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationArtifact",
+        "kind": 6,
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "peekOfCode": "class ModelEvaluationArtifact:\n    is_model_accepted:bool\n    changed_accuracy:float\n    s3_model_path:str \n    trained_model_path:str\n@dataclass\nclass ModelPusherArtifact:\n    bucket_name:str\n    s3_model_path:str",
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherArtifact",
+        "kind": 6,
+        "importPath": "us_visa.entity.artifact_entity",
+        "description": "us_visa.entity.artifact_entity",
+        "peekOfCode": "class ModelPusherArtifact:\n    bucket_name:str\n    s3_model_path:str",
+        "detail": "us_visa.entity.artifact_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TrainingPipelineConfig",
+        "kind": 6,
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "peekOfCode": "class TrainingPipelineConfig:\n    pipeline_name: str = PIPELINE_NAME\n    artifact_dir: str = os.path.join(ARTIFACT_DIR, TIMESTAMP)\n    timestamp: str = TIMESTAMP\ntraining_pipeline_config: TrainingPipelineConfig = TrainingPipelineConfig()\n@dataclass\nclass DataIngestionConfig:\n    data_ingestion_dir: str = os.path.join(training_pipeline_config.artifact_dir, DATA_INGESTION_DIR_NAME)\n    feature_store_file_path: str = os.path.join(data_ingestion_dir, DATA_INGESTION_FEATURE_STORE_DIR, FILE_NAME)\n    training_file_path: str = os.path.join(data_ingestion_dir, DATA_INGESTION_INGESTED_DIR, TRAIN_FILE_NAME)",
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataIngestionConfig",
+        "kind": 6,
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "peekOfCode": "class DataIngestionConfig:\n    data_ingestion_dir: str = os.path.join(training_pipeline_config.artifact_dir, DATA_INGESTION_DIR_NAME)\n    feature_store_file_path: str = os.path.join(data_ingestion_dir, DATA_INGESTION_FEATURE_STORE_DIR, FILE_NAME)\n    training_file_path: str = os.path.join(data_ingestion_dir, DATA_INGESTION_INGESTED_DIR, TRAIN_FILE_NAME)\n    testing_file_path: str = os.path.join(data_ingestion_dir, DATA_INGESTION_INGESTED_DIR, TEST_FILE_NAME)\n    train_test_split_ratio: float = DATA_INGESTION_TRAIN_TEST_SPLIT_RATIO\n    collection_name:str = DATA_INGESTION_COLLECTION_NAME\n@dataclass\nclass DataValidationConfig:\n    data_validation_dir: str = os.path.join(training_pipeline_config.artifact_dir, DATA_VALIDATION_DIR_NAME)",
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataValidationConfig",
+        "kind": 6,
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "peekOfCode": "class DataValidationConfig:\n    data_validation_dir: str = os.path.join(training_pipeline_config.artifact_dir, DATA_VALIDATION_DIR_NAME)\n    drift_report_file_path: str = os.path.join(data_validation_dir, DATA_VALIDATION_DRIFT_REPORT_DIR,\n                                               DATA_VALIDATION_DRIFT_REPORT_FILE_NAME)\n@dataclass\nclass DataTransformationConfig:\n    data_transformation_dir: str = os.path.join(training_pipeline_config.artifact_dir, DATA_TRANSFORMATION_DIR_NAME)\n    transformed_train_file_path: str = os.path.join(data_transformation_dir, DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR,\n                                                    TRAIN_FILE_NAME.replace(\"csv\", \"npy\"))\n    transformed_test_file_path: str = os.path.join(data_transformation_dir, DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR,",
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "DataTransformationConfig",
+        "kind": 6,
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "peekOfCode": "class DataTransformationConfig:\n    data_transformation_dir: str = os.path.join(training_pipeline_config.artifact_dir, DATA_TRANSFORMATION_DIR_NAME)\n    transformed_train_file_path: str = os.path.join(data_transformation_dir, DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR,\n                                                    TRAIN_FILE_NAME.replace(\"csv\", \"npy\"))\n    transformed_test_file_path: str = os.path.join(data_transformation_dir, DATA_TRANSFORMATION_TRANSFORMED_DATA_DIR,\n                                                   TEST_FILE_NAME.replace(\"csv\", \"npy\"))\n    transformed_object_file_path: str = os.path.join(data_transformation_dir,\n                                                     DATA_TRANSFORMATION_TRANSFORMED_OBJECT_DIR,\n                                                     PREPROCSSING_OBJECT_FILE_NAME)\n@dataclass",
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelTrainerConfig",
+        "kind": 6,
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "peekOfCode": "class ModelTrainerConfig:\n    model_trainer_dir: str = os.path.join(training_pipeline_config.artifact_dir, MODEL_TRAINER_DIR_NAME)\n    trained_model_file_path: str = os.path.join(model_trainer_dir, MODEL_TRAINER_TRAINED_MODEL_DIR, MODEL_FILE_NAME)\n    expected_accuracy: float = MODEL_TRAINER_EXPECTED_SCORE\n    model_config_file_path: str = MODEL_TRAINER_MODEL_CONFIG_FILE_PATH\n@dataclass\nclass ModelEvaluationConfig:\n    changed_threshold_score: float = MODEL_EVALUATION_CHANGED_THRESHOLD_SCORE\n    bucket_name: str = MODEL_BUCKET_NAME\n    s3_model_key_path: str = MODEL_FILE_NAME",
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelEvaluationConfig",
+        "kind": 6,
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "peekOfCode": "class ModelEvaluationConfig:\n    changed_threshold_score: float = MODEL_EVALUATION_CHANGED_THRESHOLD_SCORE\n    bucket_name: str = MODEL_BUCKET_NAME\n    s3_model_key_path: str = MODEL_FILE_NAME\n@dataclass\nclass ModelPusherConfig:\n    bucket_name: str = MODEL_BUCKET_NAME\n    s3_model_key_path: str = MODEL_FILE_NAME\n@dataclass\nclass USvisaPredictorConfig:",
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "ModelPusherConfig",
+        "kind": 6,
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "peekOfCode": "class ModelPusherConfig:\n    bucket_name: str = MODEL_BUCKET_NAME\n    s3_model_key_path: str = MODEL_FILE_NAME\n@dataclass\nclass USvisaPredictorConfig:\n    model_file_path: str = MODEL_FILE_NAME\n    model_bucket_name: str = MODEL_BUCKET_NAME",
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaPredictorConfig",
+        "kind": 6,
+        "importPath": "us_visa.entity.config_entity",
+        "description": "us_visa.entity.config_entity",
+        "peekOfCode": "class USvisaPredictorConfig:\n    model_file_path: str = MODEL_FILE_NAME\n    model_bucket_name: str = MODEL_BUCKET_NAME",
+        "detail": "us_visa.entity.config_entity",
+        "documentation": {}
+    },
+    {
+        "label": "TargetValueMapping",
+        "kind": 6,
+        "importPath": "us_visa.entity.estimator",
+        "description": "us_visa.entity.estimator",
+        "peekOfCode": "class TargetValueMapping:\n    def __init__(self):\n        self.Certified:int = 0\n        self.Denied:int = 1\n    def _asdict(self):\n        return self.__dict__\n    def reverse_mapping(self):\n        mapping_response = self._asdict()\n        return dict(zip(mapping_response.values(),mapping_response.keys()))\nclass USvisaModel:",
+        "detail": "us_visa.entity.estimator",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaModel",
+        "kind": 6,
+        "importPath": "us_visa.entity.estimator",
+        "description": "us_visa.entity.estimator",
+        "peekOfCode": "class USvisaModel:\n    def __init__(self, preprocessing_object: Pipeline, trained_model_object: object):\n        \"\"\"\n        :param preprocessing_object: Input Object of preprocesser\n        :param trained_model_object: Input Object of trained model \n        \"\"\"\n        self.preprocessing_object = preprocessing_object\n        self.trained_model_object = trained_model_object\n    def predict(self, dataframe: DataFrame) -> DataFrame:\n        \"\"\"",
+        "detail": "us_visa.entity.estimator",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaEstimator",
+        "kind": 6,
+        "importPath": "us_visa.entity.s3_estimator",
+        "description": "us_visa.entity.s3_estimator",
+        "peekOfCode": "class USvisaEstimator:\n    \"\"\"\n    This class is used to save and retrieve us_visas model in s3 bucket and to do prediction\n    \"\"\"\n    def __init__(self,bucket_name,model_path,):\n        \"\"\"\n        :param bucket_name: Name of your model bucket\n        :param model_path: Location of your model in bucket\n        \"\"\"\n        self.bucket_name = bucket_name",
+        "detail": "us_visa.entity.s3_estimator",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaData",
+        "kind": 6,
+        "importPath": "us_visa.pipline.prediction_pipeline",
+        "description": "us_visa.pipline.prediction_pipeline",
+        "peekOfCode": "class USvisaData:\n    def __init__(self,\n                continent,\n                education_of_employee,\n                has_job_experience,\n                requires_job_training,\n                no_of_employees,\n                region_of_employment,\n                prevailing_wage,\n                unit_of_wage,",
+        "detail": "us_visa.pipline.prediction_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "USvisaClassifier",
+        "kind": 6,
+        "importPath": "us_visa.pipline.prediction_pipeline",
+        "description": "us_visa.pipline.prediction_pipeline",
+        "peekOfCode": "class USvisaClassifier:\n    def __init__(self,prediction_pipeline_config: USvisaPredictorConfig = USvisaPredictorConfig(),) -> None:\n        \"\"\"\n        :param prediction_pipeline_config: Configuration for prediction the value\n        \"\"\"\n        try:\n            # self.schema_config = read_yaml_file(SCHEMA_FILE_PATH)\n            self.prediction_pipeline_config = prediction_pipeline_config\n        except Exception as e:\n            raise USvisaException(e, sys)",
+        "detail": "us_visa.pipline.prediction_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "TrainPipeline",
+        "kind": 6,
+        "importPath": "us_visa.pipline.training_pipeline",
+        "description": "us_visa.pipline.training_pipeline",
+        "peekOfCode": "class TrainPipeline:\n    def __init__(self):\n        self.data_ingestion_config = DataIngestionConfig()\n        self.data_validation_config = DataValidationConfig()\n        self.data_transformation_config = DataTransformationConfig()\n        self.model_trainer_config = ModelTrainerConfig()\n        self.model_evaluation_config = ModelEvaluationConfig()\n        self.model_pusher_config = ModelPusherConfig()\n    def start_data_ingestion(self) -> DataIngestionArtifact:\n        \"\"\"",
+        "detail": "us_visa.pipline.training_pipeline",
+        "documentation": {}
+    },
+    {
+        "label": "read_yaml_file",
+        "kind": 2,
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "peekOfCode": "def read_yaml_file(file_path: str) -> dict:\n    try:\n        with open(file_path, \"rb\") as yaml_file:\n            return yaml.safe_load(yaml_file)\n    except Exception as e:\n        raise USvisaException(e, sys) from e\ndef write_yaml_file(file_path: str, content: object, replace: bool = False) -> None:\n    try:\n        if replace:\n            if os.path.exists(file_path):",
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "write_yaml_file",
+        "kind": 2,
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "peekOfCode": "def write_yaml_file(file_path: str, content: object, replace: bool = False) -> None:\n    try:\n        if replace:\n            if os.path.exists(file_path):\n                os.remove(file_path)\n        os.makedirs(os.path.dirname(file_path), exist_ok=True)\n        with open(file_path, \"w\") as file:\n            yaml.dump(content, file)\n    except Exception as e:\n        raise USvisaException(e, sys) from e",
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_object",
+        "kind": 2,
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "peekOfCode": "def load_object(file_path: str) -> object:\n    logging.info(\"Entered the load_object method of utils\")\n    try:\n        with open(file_path, \"rb\") as file_obj:\n            obj = dill.load(file_obj)\n        logging.info(\"Exited the load_object method of utils\")\n        return obj\n    except Exception as e:\n        raise USvisaException(e, sys) from e\ndef save_numpy_array_data(file_path: str, array: np.array):",
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_numpy_array_data",
+        "kind": 2,
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "peekOfCode": "def save_numpy_array_data(file_path: str, array: np.array):\n    \"\"\"\n    Save numpy array data to file\n    file_path: str location of file to save\n    array: np.array data to save\n    \"\"\"\n    try:\n        dir_path = os.path.dirname(file_path)\n        os.makedirs(dir_path, exist_ok=True)\n        with open(file_path, 'wb') as file_obj:",
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "load_numpy_array_data",
+        "kind": 2,
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "peekOfCode": "def load_numpy_array_data(file_path: str) -> np.array:\n    \"\"\"\n    load numpy array data from file\n    file_path: str location of file to load\n    return: np.array data loaded\n    \"\"\"\n    try:\n        with open(file_path, 'rb') as file_obj:\n            return np.load(file_obj)\n    except Exception as e:",
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "save_object",
+        "kind": 2,
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "peekOfCode": "def save_object(file_path: str, obj: object) -> None:\n    logging.info(\"Entered the save_object method of utils\")\n    try:\n        os.makedirs(os.path.dirname(file_path), exist_ok=True)\n        with open(file_path, \"wb\") as file_obj:\n            dill.dump(obj, file_obj)\n        logging.info(\"Exited the save_object method of utils\")\n    except Exception as e:\n        raise USvisaException(e, sys) from e\ndef drop_columns(df: DataFrame, cols: list)-> DataFrame:",
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "drop_columns",
+        "kind": 2,
+        "importPath": "us_visa.utils.main_utils",
+        "description": "us_visa.utils.main_utils",
+        "peekOfCode": "def drop_columns(df: DataFrame, cols: list)-> DataFrame:\n    \"\"\"\n    drop the columns form a pandas DataFrame\n    df: pandas DataFrame\n    cols: list of columns to be dropped\n    \"\"\"\n    logging.info(\"Entered drop_columns methon of utils\")\n    try:\n        df = df.drop(columns=cols, axis=1)\n        logging.info(\"Exited the drop_columns method of utils\")",
+        "detail": "us_visa.utils.main_utils",
+        "documentation": {}
+    },
+    {
+        "label": "DataForm",
+        "kind": 6,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "class DataForm:\n    def __init__(self, request: Request):\n        self.request: Request = request\n        self.continent: Optional[str] = None\n        self.education_of_employee: Optional[str] = None\n        self.has_job_experience: Optional[str] = None\n        self.requires_job_training: Optional[str] = None\n        self.no_of_employees: Optional[str] = None\n        self.company_age: Optional[str] = None\n        self.region_of_employment: Optional[str] = None",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "app = FastAPI()\napp.mount(\"/static\", StaticFiles(directory=\"static\"), name=\"static\")\ntemplates = Jinja2Templates(directory='templates')\norigins = [\"*\"]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "templates",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "templates = Jinja2Templates(directory='templates')\norigins = [\"*\"]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nclass DataForm:",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "origins",
+        "kind": 5,
+        "importPath": "app",
+        "description": "app",
+        "peekOfCode": "origins = [\"*\"]\napp.add_middleware(\n    CORSMiddleware,\n    allow_origins=origins,\n    allow_credentials=True,\n    allow_methods=[\"*\"],\n    allow_headers=[\"*\"],\n)\nclass DataForm:\n    def __init__(self, request: Request):",
+        "detail": "app",
+        "documentation": {}
+    },
+    {
+        "label": "project_name",
+        "kind": 5,
+        "importPath": "template",
+        "description": "template",
+        "peekOfCode": "project_name = \"us_visa\"\nlist_of_files = [\n    f\"{project_name}/__init__.py\",\n    f\"{project_name}/components/__init__.py\",\n    f\"{project_name}/components/data_ingestion.py\",  \n    f\"{project_name}/components/data_validation.py\",\n    f\"{project_name}/components/data_transformation.py\",\n    f\"{project_name}/components/model_trainer.py\",\n    f\"{project_name}/components/model_evaluation.py\",\n    f\"{project_name}/components/model_pusher.py\",",
+        "detail": "template",
+        "documentation": {}
+    },
+    {
+        "label": "list_of_files",
+        "kind": 5,
+        "importPath": "template",
+        "description": "template",
+        "peekOfCode": "list_of_files = [\n    f\"{project_name}/__init__.py\",\n    f\"{project_name}/components/__init__.py\",\n    f\"{project_name}/components/data_ingestion.py\",  \n    f\"{project_name}/components/data_validation.py\",\n    f\"{project_name}/components/data_transformation.py\",\n    f\"{project_name}/components/model_trainer.py\",\n    f\"{project_name}/components/model_evaluation.py\",\n    f\"{project_name}/components/model_pusher.py\",\n    f\"{project_name}/configuration/__init__.py\",",
+        "detail": "template",
+        "documentation": {}
+    }
+]
