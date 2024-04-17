@@ -1,9 +1,9 @@
 import os
 from datetime import date
 
-DATABASE_NAME = "US_VISA"
+DATABASE_NAME = "usVisaDB"
 
-COLLECTION_NAME = "visa_data"
+COLLECTION_NAME = "usVisaCollection"
 
 MONGODB_URL_KEY = "MONGODB_URL"
 
