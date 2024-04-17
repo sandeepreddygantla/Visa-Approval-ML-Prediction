@@ -1,3 +1,20 @@
+# US-Visa-Approval-Prediction
+
+## Live matarials docs
+
+[link](https://docs.google.com/document/d/1UFiHnyKRqgx8Lodsvdzu58LbVjdWHNf-uab2WmhE0A4/edit?usp=sharing)
+
+
+## Git commands
+
+```bash
+git add .
+
+git commit -m "Updated"
+
+git push origin main
+```
+
 ## How to run?
 
 ```bash
@@ -26,6 +43,7 @@ python app.py
 5. pipeline
 6. app.py / demo.py
 
+
 ### Export the  environment variable
 ```bash
 
@@ -36,6 +54,8 @@ export AWS_ACCESS_KEY_ID=<AWS_ACCESS_KEY_ID>
 
 export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
 ```
+
+
 
 # AWS-CICD-Deployment-with-Github-Actions
 
@@ -104,3 +124,5 @@ export AWS_SECRET_ACCESS_KEY=<AWS_SECRET_ACCESS_KEY>
    - AWS_SECRET_ACCESS_KEY
    - AWS_DEFAULT_REGION
    - ECR_REPO
+
+    
